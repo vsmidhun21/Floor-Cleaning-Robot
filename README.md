@@ -3,5 +3,5 @@
 
 # Youtube Video
 
-[![Watch the video]](https://youtu.be/IET9qNXmBq0)
+[![Watch the video](./THUMBNAIL.jpg)](https://youtu.be/IET9qNXmBq0)
 
