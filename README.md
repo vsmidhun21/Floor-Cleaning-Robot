@@ -21,10 +21,10 @@ The Voice-Controlled Floor Cleaning Robot with Android Application Integration i
 # ThingSpeak Cloud
 ![Untitled](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/e8ada90e-b0de-49fa-9c15-77c31510e147)
 
-# Hardware Kit
+# Hardware
 ![kit](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/172eb791-5b96-4b57-b8cc-a8377c9a6360)
 
-# Youtube Video
+# Demonstration Video
 [![Watch the video](./THUMBNAIL.jpg)](https://youtu.be/IET9qNXmBq0)
 
 
