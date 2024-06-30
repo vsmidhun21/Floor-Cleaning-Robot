@@ -5,11 +5,26 @@ The Voice-Controlled Floor Cleaning Robot with Android Application Integration i
   - Conference: IEEE (Institute of Electrical and Electronics Engineers)
   - Link: https://ieeexplore.ieee.org/document/10533035
   - Conference Certificate
+    
     ![Certificate](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/73ec8f05-ac50-434f-999d-ee0912215c3a)
 
+# Technologies
+- Android App: MIT App Inventor
+- Cloud: ThingSpeak IoT Platform
+- Simulation: Wokwi
+- IDE: Arduino IDE
+- Programming: Embedded C
+
+# Android Application
+![Application](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/db49033e-272c-483e-92fc-fd3fb5d7967b)
+
+# ThingSpeak Cloud
+![Untitled](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/e8ada90e-b0de-49fa-9c15-77c31510e147)
+
+# Hardware Kit
+![kit](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/172eb791-5b96-4b57-b8cc-a8377c9a6360)
 
 # Youtube Video
-
 [![Watch the video](./THUMBNAIL.jpg)](https://youtu.be/IET9qNXmBq0)
 
 
