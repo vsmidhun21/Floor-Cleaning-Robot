@@ -26,6 +26,8 @@ The Voice-Controlled Floor Cleaning Robot with Android Application Integration i
 ![Untitled](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/e8ada90e-b0de-49fa-9c15-77c31510e147)
 
 # Hardware
+- ESP8266 Code: <a href="./Documents/Esp8266 Code.docs">Download Code</a>
+- Arduino Code: <a href="./Documents/Arduino UNO Code.docs">Download Code</a>
 ![kit](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/172eb791-5b96-4b57-b8cc-a8377c9a6360)
 
 # Demonstration Video
