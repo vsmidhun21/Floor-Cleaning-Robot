@@ -21,9 +21,9 @@ The Voice-Controlled Floor Cleaning Robot with Android Application Integration i
 # Android Application
 
 - App Link : <a href="./Documents/Voice_Command.apk">Download APK</a>
-
+<center>
 ![Application](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/db49033e-272c-483e-92fc-fd3fb5d7967b)
-
+</center>
 # ThingSpeak Cloud
 ![Untitled](https://github.com/vsmidhun21/Floor-Cleaning-Robot/assets/114806736/e8ada90e-b0de-49fa-9c15-77c31510e147)
 
